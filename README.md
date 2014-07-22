@@ -10,4 +10,19 @@ Playgrounds about swift language.
 
 include:
 
-Basic, ControlFlow, Function, Initializer and so on.
+* Basic
+* Class and Struct
+* Closures
+* Collection Type
+* Enumeration
+* ControlFlow
+* Function
+* Initializer
+* Optional Chaining, Type Casting and Extension
+* Strings and Characters
+* Subscript
+
+###Requirements
+
+Xcode 6 - beta
+
