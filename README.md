@@ -21,6 +21,7 @@ include:
 * Optional Chaining, Type Casting and Extension
 * Strings and Characters
 * Subscript
+* RayWendrich Swift Ninja (Advanced Topic)
 
 ###Requirements
 
