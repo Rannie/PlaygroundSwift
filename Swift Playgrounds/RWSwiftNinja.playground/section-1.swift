@@ -83,3 +83,24 @@ func countFrom(from: Int, #to: Int) {
 countFrom(1, to: 5)
 
 
+/*
+#5
+Write a single function that reverses the text in a string.
+
+You can’t use any loop operators nor subscripts (i.e. no square brackets in the code).
+You can’t use any built-in Array functions.
+Don’t use variables.
+*/
+
+//func reverseString (input: String, output: String="") -> String {
+//    if input.isEmpty {
+//        return output
+//    } else {
+//        return reverseString(
+//            input.substringToIndex(input.endIndex.predecessor()),
+//            output: output + input.substringFromIndex(input.endIndex.predecessor()))
+//    }
+//}
+
+
+
